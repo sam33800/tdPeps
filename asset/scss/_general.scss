@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Roboto";
+}
+
+h2{
+    font-family: "RobotoTitre";
+    text-transform: uppercase;
+}
+h3{
+    font-size: 25px;
+    font-family: "RobotoTitre";
+    text-transform: uppercase;
+}
+h4{
+    font-family: "RobotoTitre";
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: rgb(255, 116, 139);
+}

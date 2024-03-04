@@ -1,0 +1,76 @@
+@media screen and (max-width:1024px){
+    .methode2{
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+
+    .comprendre{
+        margin-top: 5rem;
+    }
+    
+    .titre{
+        margin-top: 10rem;
+    }
+
+    .comprendre{
+        width: 70%;
+    }
+}
+
+
+@media screen and (max-width:860px){
+    nav ul{
+        flex-direction: column;
+        padding-bottom: 2rem;
+    }
+    .logo{
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+
+@media screen and (max-width:768px){
+    .banniere h2{
+        font-size: 40px;
+    }
+
+    .img-approche{
+        width: 80%;
+
+    }
+
+    .img-blog{
+        margin-bottom: 4rem;
+    }
+
+    .article-blog{
+        flex-direction: column;
+        margin-left: 1rem;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .footer1{
+        flex-direction: column;
+        width: 90%;
+    }
+
+
+    .logo-footer{
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .btn-blog{
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+
+}
